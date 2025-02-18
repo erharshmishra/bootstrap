@@ -1,0 +1,21 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+p {
+    text-align: justify;
+    color: rgb(182, 15, 15);
+}
+
+h1 {
+    color: magenta;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    margin-top: 50px;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+}
