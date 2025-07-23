@@ -39,7 +39,7 @@ This repository contains a series of Bootstrap component demos. Each folder show
 
 ## 📚 Learning Resource
 
-This project is ideal for:
+**This project is ideal for:**
 - Students learning Bootstrap
 - Frontend beginners
 - Quick reference and hands-on demos for teaching
