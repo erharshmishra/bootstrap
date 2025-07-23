@@ -46,8 +46,8 @@ This project is ideal for:
 
 ## 👨‍💻 Author
 
-**Name:** Harsh Mishra 
-**Email:** harshmishra8103@gmail.com
+**Name:** Harsh Mishra <br>
+**Email:** harshmishra8103@gmail.com <br>
 
 > Feel free to connect or contribute!
 
